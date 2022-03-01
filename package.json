@@ -10,10 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/tokeenn/Portfolio.git"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/tokeenn/Portfolio/issues"
   },
-  "homepage": "https://github.com/tokeenn/Portfolio#readme"
+  "homepage": "https://github.com/tokeenn/Portfolio#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
